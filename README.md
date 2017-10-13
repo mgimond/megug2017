@@ -1,4 +1,4 @@
 # megug2017
 MEGUG and GIS Ed R workshop
 
-Check back soon for pre-workshop instructions
+Click [here](workshop/index.html) for pre-workshop instructions
